@@ -1,0 +1,1131 @@
+Cmp-Mod V01 Created by PcbNew   date = 2017 October 18, Wednesday 07:46:46
+
+BeginCmp
+TimeStamp = 59E69AA7
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A83
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A9C
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A97
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A92
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A8D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A88
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A77
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A72
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A6D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A68
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A63
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A59
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A54
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A4F
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69A4A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E69963
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E68421
+Path = /59E76E82
+Reference = C27;
+ValeurCmp = 15p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 599FC328
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 599DAD22
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 597880D2
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787FF3
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787E27
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787DBC
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787DAB
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787DA0
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787D6D
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787D1E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787D15
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787D10
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787D09
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787CED
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787CDE
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787CD2
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787CC9
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787C73
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59787C6C
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59783E78
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59783DF8
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D75B2
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D75A7
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D75A3
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D759E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D759A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59226D4F
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.7mm_M2.5;
+IdModule  = Mounting_Holes:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 59226D49
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.7mm_M2.5;
+IdModule  = Mounting_Holes:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 59226D43
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.7mm_M2.5;
+IdModule  = Mounting_Holes:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 59226CF1
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.7mm_M2.5;
+IdModule  = Mounting_Holes:MountingHole_2.7mm_M2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D63E1
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6451
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6442
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D643E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D643A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6436
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D642A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D641E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6412
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D640E
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D640A
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D63F5
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D63F1
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D63ED
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D63E9
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D638B
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6387
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6383
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D637F
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D637B
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6377
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D6373
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D636F
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4642
+Path = /59E76D8B
+Reference = C1;
+ValeurCmp = 15p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4648
+Path = /589765ED
+Reference = C2;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C464E
+Path = /58973FC2
+Reference = C3;
+ValeurCmp = 220p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4654
+Path = /58971E4D
+Reference = C4;
+ValeurCmp = 18p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C465A
+Path = /58971A8F
+Reference = C5;
+ValeurCmp = 12p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4660
+Path = /589705E1
+Reference = C6;
+ValeurCmp = 10p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4666
+Path = /5896E97E
+Reference = C7;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C466C
+Path = /589762ED
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4672
+Path = /58974124
+Reference = C9;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4678
+Path = /5896DEF7
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C467E
+Path = /589757AF
+Reference = C11;
+ValeurCmp = 22n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4684
+Path = /58977C18
+Reference = C12;
+ValeurCmp = 82p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C468A
+Path = /58977D12
+Reference = C13;
+ValeurCmp = 2.7n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4690
+Path = /58977DF7
+Reference = C14;
+ValeurCmp = 200p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4696
+Path = /58979B33
+Reference = C15;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C469C
+Path = /589656C1
+Reference = C16;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46A2
+Path = /58979714
+Reference = C17;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46A8
+Path = /5897BA0E
+Reference = C18;
+ValeurCmp = 22p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46AE
+Path = /5897B23C
+Reference = C19;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46B4
+Path = /58969AA4
+Reference = C20;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46BA
+Path = /5895F2B9
+Reference = C21;
+ValeurCmp = 20p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46C0
+Path = /58969E8F
+Reference = C22;
+ValeurCmp = 10n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46C6
+Path = /5895F2BF
+Reference = C23;
+ValeurCmp = 20p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46CC
+Path = /58962122
+Reference = C24;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46D2
+Path = /589621B5
+Reference = C25;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46D8
+Path = /58962208
+Reference = C26;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46DE
+Path = /59773D22
+Reference = D1;
+ValeurCmp = red;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46E4
+Path = /5896A578
+Reference = D2;
+ValeurCmp = green;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46EA
+Path = /5896A71F
+Reference = D3;
+ValeurCmp = yellow;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46F0
+Path = /5896A7A2
+Reference = D4;
+ValeurCmp = red;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46F6
+Path = /5896A826
+Reference = D5;
+ValeurCmp = yellow;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C46FC
+Path = /5896A8AF
+Reference = D6;
+ValeurCmp = green;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4702
+Path = /5896A939
+Reference = D7;
+ValeurCmp = amber;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4708
+Path = /58972EEA
+Reference = L1;
+ValeurCmp = 150n;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C470E
+Path = /58972852
+Reference = L2;
+ValeurCmp = 130n;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4714
+Path = /58973BF8
+Reference = L3;
+ValeurCmp = 100n;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C471A
+Path = /589706C7
+Reference = L4;
+ValeurCmp = 200n;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4721
+Path = /589603E4
+Reference = P1;
+ValeurCmp = BOOT0;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4729
+Path = /591D2179
+Reference = P2;
+ValeurCmp = DISPLAY;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4732
+Path = /5897CEF8
+Reference = P3;
+ValeurCmp = SMA;
+IdModule  = Connectors:SMA_THT_Jack_Straight;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C473A
+Path = /5896079D
+Reference = P4;
+ValeurCmp = STLINK;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4770
+Path = /58963296
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4776
+Path = /5896F75D
+Reference = R2;
+ValeurCmp = 1k1;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4788
+Path = /58977A3D
+Reference = R5;
+ValeurCmp = 3.4K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C478E
+Path = /58977B33
+Reference = R6;
+ValeurCmp = 1.65K;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4794
+Path = /58965445
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C479A
+Path = /58968523
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47A0
+Path = /589685C3
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47A6
+Path = /58968631
+Reference = R10;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47AC
+Path = /5896AA58
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47B2
+Path = /5896ABAD
+Reference = R12;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47B8
+Path = /5896AC48
+Reference = R13;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47BE
+Path = /5896ACE3
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47C4
+Path = /5896AD81
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47CA
+Path = /5896AE20
+Reference = R16;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47D0
+Path = /5896AEC4
+Reference = R17;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47D6
+Path = /5977B735
+Reference = R18;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C47E2
+Path = /591CFDC5
+Reference = SW1;
+ValeurCmp = SW_DIP_x01;
+IdModule  = Buttons_Switches_SMD:SW_SPST_B3U-1000P;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4826
+Path = /5896FF14
+Reference = U1;
+ValeurCmp = ADF7021;
+IdModule  = Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C485A
+Path = /5895EDF8
+Reference = U2;
+ValeurCmp = STM32F103C8T6;
+IdModule  = Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4862
+Path = /5897A831
+Reference = X1;
+ValeurCmp = TCXO;
+IdModule  = Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591C4868
+Path = /5895F2AD
+Reference = Y1;
+ValeurCmp = 8MHz;
+IdModule  = Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 591D5DC0
+Path = 
+Reference = REF**;
+ValeurCmp = VIA-0.6mm;
+IdModule  = MMDVM:VIA-0.6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59774BC2
+Path = /5896A9C6
+Reference = D8;
+ValeurCmp = red;
+IdModule  = LEDs:LED_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 59774BC8
+Path = /5896E5F8
+Reference = R3;
+ValeurCmp = 3k6;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 597856B3
+Path = /58976039
+Reference = R4;
+ValeurCmp = 2r;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E683C1
+Path = /59E68CFC
+Reference = L5;
+ValeurCmp = 20n;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E68426
+Path = /59E6AA33
+Reference = C28;
+ValeurCmp = 15p;
+IdModule  = Capacitors_SMD:C_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E6A757
+Path = /591C168B
+Reference = PI1;
+ValeurCmp = RPI-ZERO;
+IdModule  = pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL;
+EndCmp
+
+BeginCmp
+TimeStamp = 59E84F02
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = MMDVM:OSHWLOGO3IN;
+EndCmp
+
+EndListe

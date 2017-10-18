@@ -1,4 +1,4 @@
-update=Fr 06 Okt 2017 13:01:56 CEST
+update=2017 October 18, Wednesday 07:32:51
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -74,3 +72,5 @@ LibName32=switches
 LibName33=adf7021
 LibName34=Oscillators
 LibName35=RPI-Zero
+[general]
+version=1
