@@ -1,39 +1,70 @@
-Refs,Value,Footprint,QTY,MFR,MPN,SPR,SPN
-SW1,SW_DIP_x01,Buttons_Switches_SMD:SW_SPST_B3U-1000P,1,Omron Electronics,B3U-1000P,Mouser,653-B3U-1000P
-C24;C25;C26;C16;C20;C10;C8;C15;C27;C28,100n,Capacitors_SMD:C_0402,10,Murata Electronics,GCM155R71C104JA55D,Mouser,81-GCM155R71C104JA5D
-C22;C7;C9;C2;C17;C19,10n,Capacitors_SMD:C_0402,6,Murata Electronics,GRM155R71H103KA88D,Mouser,81-GRM155R71H103KA8D
-C4,10p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1E100GA01D,Mouser,81-GRM1555C1E100GA1D
-C13,15n,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R71C153KA01D,Mouser,81-GRM155R71C153KA1D
-C14,1n,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R60J102KA01D,Mouser,81-GRM155R60J102KA1D
-C21;C23,20p,Capacitors_SMD:C_0402,2,Murata Electronics,GJM1555C1H200FB01D,Mouser,81-GJM1555C1H200FB1D
-C3,220p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1H221JA01D,Mouser,81-GRM1555C1H221JA01
-C11,22n,Capacitors_SMD:C_0402,1,Murata Electronics,GCM155R71E223KA55D,Mouser,81-GCM155R71E223KA5D
-C18,22p,Capacitors_SMD:C_0402,1,AVX,04025A220GAT2A,Mouser,581-04025A220G
-C12,470p,Capacitors_SMD:C_0402,1,Murata Electronics,GRM155R71H471KA01D,Mouser,81-GRM36X471K50
-C5,4p7,Capacitors_SMD:C_0402,1,Murata Electronics,GRM1555C1H4R7CA01D,Mouser,81-GRM1555C1H4R7CA1D
-C6;C1,6p8,Capacitors_SMD:C_0402,2,Murata Electronics,GJM1555C1H6R8BB01D,Mouser,81-GJM1555C1H6R8BB1D
-P3,SMA,Connectors:SMA_THT_Jack_Straight,1,TE Connectivity,5-1814832-1,Mouser,571-5-1814832-1
-X1,TCXO,Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm,1,ECS,ECS-TXO-3225-147.4-TR,Mouser,520-TXO-3225-14.74T
-Y1,8MHz,Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm,1,ABRACON,ABM3-8.000MHz-D2Y-T,Mouser,815-ABM3-8-D2Y-T
-U1,ADF7021,Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm,1,Analog Devices,ADF7021BCPZ,Mouser,584-ADF7021BCPZ
-U2,STM32F103C8T6,Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm,1,STMicroelectronics,STM32F103C8T6,Mouser,511-STM32F103C8T6
-D7,amber,LEDs:LED_0402,1,ROHM Semiconductor,SML-P12DTT86R,Mouser,755-SML-P12DTT86R
-D2;D6,green,LEDs:LED_0402,2,ROHM Semiconductor,SML-P13PTT86R,Mouser,755-SML-P13PTT86R
-D4;D8;D1,red,LEDs:LED_0402,3,ROHM Semiconductor,SML-P12U2TT86R,Mouser,755-SML-P12U2TT86R
-D3;D5,yellow,LEDs:LED_0402,2,ROHM Semiconductor,SML-P12WTT86R,Mouser,755-SML-P12WTT86R
-P1,BOOT0,Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm,1,TE Connectivity / AMP,826629-3,Mouser,571-826629-3
-P2,DISPLAY,Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm,1,TE Connectivity / AMP,826629-4,Mouser,571-826629-4
-P4,STLINK,Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm,1,TE Connectivity / AMP,826629-4,Mouser,571-826629-4
-R1;R7,10k,Resistors_SMD:R_0402,2,Vishay,CRCW040210K0FKED,Mouser,71-CRCW0402-10K-E3
-L3,13n,Resistors_SMD:R_0402,1,Coilcraft,0402CS-13NXJLU,Mouser,994-0402CS-13NXJLU
-R8;R9;R10;R11;R12;R13;R14;R15;R16;R17;R18,1k,Resistors_SMD:R_0402,11,Panasonic,ERJ-PA2D1001X,Mouser,667-ERJ-PA2D1001X
-R2,1k1,Resistors_SMD:R_0402,1,Susumu,RR0510P-112-D,Mouser,754-RR0510P-112D
-L2,20n,Resistors_SMD:R_0402,1,TE Connectivity / Sigma Inductors,36501E20NJTDG,Mouser,279-36501E20NJTDG
-L1,22n,Resistors_SMD:R_0402,1,Coilcraft,0402AF-220XJLU,Mouser,994-0402AF-220XJLU
-R6,270,Resistors_SMD:R_0402,1,Panasonic,ERA-2AEB271X,Mouser,667-ERA-2AEB271X
-L4,27n,Resistors_SMD:R_0402,1,Coilcraft,0402CS-27NXJLU,Mouser,994-0402CS-27NXJLU
-R3,3k8,Resistors_SMD:R_0402,1,Susumu,RR0510P-3831-D,Mouser,754-RR0510P-3831D
-R4,3r9,Resistors_SMD:R_0402,1,Vishay,CRCW04023R90FKED,Mouser,71-CRCW04023R90FKED
-R5,560,Resistors_SMD:R_0402,1,Panasonic,ERA-2AEB561X,Mouser,667-ERA-2AEB561X
-AE1,AN1603_433,pizero:AN1603,1,RainSun,AN1603-433,AliExpress,
-PI1,RPI-ZERO,pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL,1,Harwin,M20-7832046,Mouser,855-M20-7832046
+Reference, Value, Footprint, Datasheet, MFR, MPN, SPR, SPN
+"U2","STM32F103C8T6","Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm","http://www.mouser.com/ds/2/389/stm32f103c8-956229.pdf","STMicroelectronics","STM32F103C8T6","Mouser","511-STM32F103C8T6"
+"Y1","8MHz","Crystals:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm","http://www.mouser.com/ds/2/3/abm3-47699.pdf","ABRACON","ABM3-8.000MHz-D2Y-T","Mouser","815-ABM3-8-D2Y-T"
+"C21","20p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GJM1555C1H200FB01D","Mouser","81-GJM1555C1H200FB1D"
+"C23","20p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GJM1555C1H200FB01D","Mouser","81-GJM1555C1H200FB1D"
+"P1","BOOT0","Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm","http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-692251.pdf","TE Connectivity / AMP","826629-3","Mouser","571-826629-3"
+"P4","STLINK","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf","TE Connectivity / AMP","826629-4","Mouser","571-826629-4"
+"C24","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"C25","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"C26","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"R1","10k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf","Vishay","CRCW040210K0FKED","Mouser","71-CRCW0402-10K-E3"
+"R7","10k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf","Vishay","CRCW040210K0FKED","Mouser","71-CRCW0402-10K-E3"
+"C16","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"R8","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R9","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R10","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"C20","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"C22","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"D2","green","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P13PTT86R","Mouser","755-SML-P13PTT86R"
+"D3","yellow","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12WTT86R","Mouser","755-SML-P12WTT86R"
+"D4","red","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12U2TT86R","Mouser","755-SML-P12U2TT86R"
+"D5","yellow","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12WTT86R","Mouser","755-SML-P12WTT86R"
+"D6","green","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P13PTT86R","Mouser","755-SML-P13PTT86R"
+"D7","amber","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12DTT86R","Mouser","755-SML-P12DTT86R"
+"D8","red","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12U2TT86R","Mouser","755-SML-P12U2TT86R"
+"R11","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R12","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R13","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R14","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R15","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R16","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"R17","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"C10","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"R3","3k6","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C307-1149632.pdf","Panasonic","ERA-2AEB362X","Mouser","667-ERA-2AEB362X"
+"C7","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"R2","1k1","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/392/susumu_RR_Data_Sheet-358748.pdf","Susumu","RR0510P-112-D","Mouser","754-RR0510P-112D"
+"U1","ADF7021","Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm","http://www.mouser.com/ds/2/609/ADF7021-878461.pdf","Analog Devices","ADF7021BCPZ","Mouser","584-ADF7021BCPZ"
+"C6","10p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GJM1555C1H6R8BB01D","Mouser","81-GJM1555C1H6R8BB1D"
+"L4","200n","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/597/0402af-270718.pdf","Coilcraft","0402AF-201XJLU","Mouser","994-0402AF-201XJLU"
+"C5","12p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM1555C1H120FA1D","Mouser","81-GRM1555C1H120FA1D"
+"C4","18p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM1555C1H180JA1D","Mouser","81-GRM1555C1H180JA1D"
+"L2","130n","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/400/nductor_commercial_high-frequency_mlg1005s_en-918305.pdf","TDK","MLG1005SR13JTD25","Mouser","810-MLG1005SR13JTD25"
+"L1","150n","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/400/nductor_commercial_high-frequency_mlg1005s_en-918305.pdf","TDK","MLG1005SR15JTD25","Mouser","810-MLG1005SR15JTD25"
+"L3","100n","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/597/0402hp-270660.pdf","Coilcraft","0402HPH-R10XJLW","Mouser","994-0402HPH-R10XJLW"
+"C3","220p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM1555C1H221JA01D","Mouser","81-GRM1555C1H221JA01"
+"C9","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"C11","22n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71E223KA55D","Mouser","81-GCM155R71E223KA5D"
+"R4","2r","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf","Vishay","CRCW04022R00FKED","Mouser","71-CRCW0402-2-E3"
+"C8","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"C2","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"R5","3.4K","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C307-1149632.pdf","Panasonic","ERA-2AEB3401X","Mouser","667-ERA-2AEB3401X"
+"R6","1.65K","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C307-1149632.pdf","Panasonic","ERA-2AEB1651X","Mouser","667-ERA-2AEB1651X"
+"C12","82p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf","TKD","C0402CH1C820J02C","Mouser","810-C0402CH1C820J02C"
+"C13","2.7n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/40/X7RDielectric-777024.pdf","AVX","04025C272JAT2A","Taiyo Yuden","581-04025C272JAT2A"
+"C14","200p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/GCM1555C1H102FA16-01-1064253.pdf","Murata Electronics","81-GCM1555C1H201FA6D","Mouser","81-GCM1555C1H201FA6D"
+"C17","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"C15","100n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c03e-806517.pdf","Murata Electronics","GCM155R71C104JA55D","Mouser","81-GCM155R71C104JA5D"
+"X1","TCXO","Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm","http://www.mouser.com/ds/2/122/ECS-TXO-3225-608196.pdf","ECS","ECS-TXO-3225-147.4-TR","Mouser","520-TXO-3225-14.74T"
+"C19","10n","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/c02e-2905.pdf","Murata Electronics","GRM155R71H103KA88D","Mouser","81-GRM155R71H103KA8D"
+"C18","22p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/40/C0GNP0-Dielectric-951274.pdf","AVX","04025A220GAT2A","Mouser","581-04025A220G"
+"P3","SMA","Connectors:SMA_THT_Jack_Straight","http://www.mouser.com/ds/2/18/C901-144-8RFX-710432.pdf","TE Connectivity","5-1814832-1","Mouser","571-5-1814832-1"
+"PI1","RPI-ZERO","pizero:RPI-Zero-RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL","http://www.mouser.com/ds/2/181/M20-783-351164.pdf","Harwin","M20-7832046","Mouser","855-M20-7832046"
+"SW1","SW_DIP_x01","Buttons_Switches_SMD:SW_SPST_B3U-1000P","http://www.mouser.com/ds/2/307/en-b3u-3615.pdf","Omron Electronics","B3U-1000P","Mouser","653-B3U-1000P"
+"P2","DISPLAY","Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm","http://www.mouser.com/ds/2/418/NG_CD_826629_AA_baseFilename-683270.pdf","TE Connectivity / AMP","826629-4","Mouser","571-826629-4"
+"D1","red","LEDs:LED_0402","http://www.mouser.com/ds/2/348/sml-p1-471200.pdf","ROHM Semiconductor","SML-P12U2TT86R","Mouser","755-SML-P12U2TT86R"
+"R18","1k","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/315/AOA0000C291-1101061.pdf","Panasonic","ERJ-PA2D1001X","Mouser","667-ERJ-PA2D1001X"
+"L5","20n","Resistors_SMD:R_0402","http://www.mouser.com/ds/2/400/nductor_commercial_high-frequency_mhq0402psa_en-1001776.pdf","TDK","MHQ0402PSA20NHT","Mouser","810-MHQ0402PSA20NHT"
+"C28","15p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/Murata%20GJM%20Series-1149669.pdf","Murata Electronics","GJM0225C1E150JB1L","Mouser","81-GJM0225C1E150JB1L"
+"C1","15p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/Murata%20GJM%20Series-1149669.pdf","Murata Electronics","GJM0225C1E150JB1L","Mouser","81-GJM0225C1E150JB1L"
+"C27","15p","Capacitors_SMD:C_0402","http://www.mouser.com/ds/2/281/Murata%20GJM%20Series-1149669.pdf","Murata Electronics","GJM0225C1E150JB1L","Mouser","81-GJM0225C1E150JB1L"
