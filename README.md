@@ -5,11 +5,11 @@ This project provides a Raspberry Pi Hat for the [MMDVM_HS Hotspot](https://gith
 
 First revisions of the board have been built successfully!
 
-![PCB](https://github.com/mathisschmieder/MMDVM_HS_Hat/blob/master/mmdvm_hs-hat.png)
+![PCB](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/mmdvm_hs-hat.png)
 
 The PCB is designed in KiCad and the necessary libraries are included. The supplied Gerber files can be used to order PCBs, for example at Elecrow or DirtyPCBs. The board's dimensions are 65x30mm.
 
-You can order 3 beautiful, purple Revision 1.2 PCBs for $15 at [OSHPark](https://oshpark.com/shared_projects/WaiMw5XE)! 
+You can order 3 beautiful, purple Revision 1.2.1 VHF PCBs for $15 at [Comming soon]! 
 
 ## Revisions
 ### Revision 0
@@ -36,14 +36,14 @@ This Revision change design to VHF.
 - Add Inductor for External VCO
 - Changed resistor and capacitor loop filter value
 - Changed Lowpass filter circuit and value
-
+- All value from simulation result.
 
 ## BOM
 * All necessary parts for the Revision 1.1 board can be ordered at Mouser using the following [shopping cart](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=780b8eac44)
 * All necessary parts for the Revision 1.2 board can be ordered at Mouser using the following [shopping cart](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=035e777242)
 * There is also a light version of revision 1.2 without the reset switch, 2.54mm headers and SMA connector [Link](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=3f7d0256e1)
 Please note that the onboard ceramic antenna is not supplied by Mouser and therefore missing in the carts.  
-
+* All necessary parts for the Revision 1.2.1 board can be ordered at Mouser using the following [Comming soon]
 Either the ADF7021 or the ADF7021-N can be used. Define the proper version in the firmware!
 
 ## Firmware Installation
