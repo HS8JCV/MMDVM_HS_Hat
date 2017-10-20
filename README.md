@@ -2,6 +2,7 @@
 MMDVM_HS Hat for the Raspberry Pi (Zero)
 
 This project forked from https://github.com/mathisschmieder/MMDVM_HS_Hat
+
 This project provides a Raspberry Pi Hat for the [MMDVM_HS Hotspot](https://github.com/juribeparada/MMDVM_HS). It was designed for the Raspberry Pi Zero, but should work on any other Pi with the Hat interface. 
 
 ![PCB](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/mmdvm_hs-hat.png)
@@ -11,26 +12,9 @@ The PCB is designed in KiCad and the necessary libraries are included. The suppl
 You can order 3 beautiful, purple Revision 1.2.1(VHF) PCBs for $15 at [Comming soon]! 
 
 ## Revisions
-### Revision 0
-This was the first released version that still contains a couple of errors. There is a trace missing between L1 and C1 that needs to be fixed with a small blob of solder or magnet wire. Otherwise the RF connector is not connected to the ADF7021. The GND side of C20 and C22 is not connected to the rest of the board's GND, this needs to be fixed with a little wire to any other GND. CE is connected directly to +3.3V which disallows mode scanning to work. If you just use one mode this is fine, otherwise the connection to the CE pin has to be cut and connected to PC14 on the STM32.
-
-Earlier schematics showed C14 as 1uF. This is wrong and needs to be replaced with 1nF, otherwise the ADF7021 will neither receive nor transmit properly.
-
-With these changes, you can build a fully working MMDVM_HS with the old revision 0 boards
-
-### Revision 1
-These boards have "Revision 1" written on them. All bugs found in revision 0 are fixed in this version. Apart from that, the STM32's BOOT0 and RESET pins are connected to GPIOs of the Raspberry Pi. This way, flashing should be possible without manually jumpering BOOT0 and triggering a reset.
-
-Component placement did not change between revisions 0 and 1, therefore any stencils for revision 0 should work for revision 1 boards, too.
-
-### Revision 1.1
-Rewired 3v3 line for Nextion display connector to 5v0. Added SERVICE LED for visual heartbeat. Fixed improper labelling on P25 and YSF LEDs. Due to added LEDs this revision requires a new stencil.
-
-### Revision 1.2
-This Revision adds support for an optional AN1603-443 ceramic antenna. Insert C27 or C28, depending on what kind of antenna you want to use.
-
+If you want to know about other please goto orginal repository https://github.com/mathisschmieder/MMDVM_HS_Hat
 ### Revision 1.2.1(VHF)
-This Revision change design to VHF.
+This Revision forked from revision 1.2 of https://github.com/mathisschmieder/MMDVM_HS_Hat
 - Remove ceramic UHF antenna
 - Add Inductor for External VCO
 - Changed resistor and capacitor loop filter value
