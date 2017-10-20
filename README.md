@@ -1,9 +1,8 @@
-# MMDVM_HS_Hat
+# MMDVM_HS_Hat (VHF)
 MMDVM_HS Hat for the Raspberry Pi (Zero)
 
+This project forked from https://github.com/mathisschmieder/MMDVM_HS_Hat
 This project provides a Raspberry Pi Hat for the [MMDVM_HS Hotspot](https://github.com/juribeparada/MMDVM_HS). It was designed for the Raspberry Pi Zero, but should work on any other Pi with the Hat interface. 
-
-First revisions of the board have been built successfully!
 
 ![PCB](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/mmdvm_hs-hat.png)
 
