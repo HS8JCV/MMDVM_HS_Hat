@@ -12,19 +12,16 @@ The PCB is designed in KiCad and the necessary libraries are included. The suppl
 You can order 3 beautiful, purple Revision 1.2.1(VHF) PCBs for $15 at [Comming soon]! 
 
 ## Revisions
-If you want to know about other please goto orginal repository https://github.com/mathisschmieder/MMDVM_HS_Hat
+If you want to know about other revisions ,Please goto  orginal repository https://github.com/mathisschmieder/MMDVM_HS_Hat
 ### Revision 1.2.1(VHF)
 This Revision forked from revision 1.2 of https://github.com/mathisschmieder/MMDVM_HS_Hat
+Detail
 - Remove ceramic UHF antenna
 - Add Inductor for External VCO
 - Changed resistor and capacitor loop filter value
 - Changed Lowpass filter circuit and value
 
 ## BOM
-* All necessary parts for the Revision 1.1 board can be ordered at Mouser using the following [shopping cart](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=780b8eac44)
-* All necessary parts for the Revision 1.2 board can be ordered at Mouser using the following [shopping cart](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=035e777242)
-* There is also a light version of revision 1.2 without the reset switch, 2.54mm headers and SMA connector [Link](http://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=3f7d0256e1)
-Please note that the onboard ceramic antenna is not supplied by Mouser and therefore missing in the carts.  
 * All necessary parts for the Revision 1.2.1(VHF) board can be ordered at Mouser using the following [Comming soon]
 
 Either the ADF7021 or the ADF7021-N can be used. Define the proper version in the firmware!
