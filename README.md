@@ -15,11 +15,15 @@ You can order 3 beautiful, purple Revision 1.2.1(VHF) PCBs for $15 at [OSHPark](
 If you want to know about other revisions ,Please goto  orginal repository https://github.com/mathisschmieder/MMDVM_HS_Hat
 ### Revision 1.2.1(VHF)
 This Revision forked from revision 1.2 of https://github.com/mathisschmieder/MMDVM_HS_Hat
+
 Detail
 - Remove ceramic UHF antenna
 - Add Inductor for External VCO
 - Changed resistor and capacitor loop filter value
 - Changed Lowpass filter circuit and value
+
+##Customize schematic with Simulation Software
+![SIM](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/simulation_schematic.png)
 
 ## BOM
 * All necessary parts for the Revision 1.2.1(VHF) board can be ordered at Mouser using the following [Comming soon]
