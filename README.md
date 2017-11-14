@@ -9,7 +9,7 @@ This project provides a Raspberry Pi Hat for the [MMDVM_HS Hotspot](https://gith
 
 The PCB is designed in KiCad and the necessary libraries are included. The supplied Gerber files can be used to order PCBs, for example at Elecrow or DirtyPCBs. The board's dimensions are 65x30mm.
 
-You can order 3 beautiful, purple Revision 1.2.1(VHF) PCBs for $15 at [Comming soon]! 
+You can order 3 beautiful, purple Revision 1.2.1(VHF) PCBs for $15 at [OSHPark](https://oshpark.com/shared_projects/D5eErGib)! 
 
 ## Revisions
 If you want to know about other revisions ,Please goto  orginal repository https://github.com/mathisschmieder/MMDVM_HS_Hat
