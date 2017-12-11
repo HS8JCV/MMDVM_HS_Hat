@@ -29,7 +29,7 @@ Detail
 ## Spectrum Result
 
 Spurious(Harmonic 2nd)
-![Spur](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_2nd.jpg)
+![Spur](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_2nd.JPG)
 
 50 KHz Span
 ![span](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_50khz.jpg)
