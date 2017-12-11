@@ -28,11 +28,11 @@ Detail
 
 ## Spectrum Result
 
-Spurious(Harmonic 2nd)
-![Spur](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_2nd.JPG)
+![Spur](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_2nd.jpg)
+Spurious(2nd Harmonic)
 
-50 KHz Span
 ![span](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_50khz.jpg)
+50Khz Span
 
 ## BOM
 * All necessary parts for the Revision 1.2.1(VHF) board can be ordered at Mouser using the following [Shopping](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=52a714bcd7)
