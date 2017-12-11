@@ -27,13 +27,12 @@ Detail
 ![Spectrum](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/simulation_spectrum.png)
 
 ## Spectrum Result
+Agilent N9340B with 20dB Attenuator
 
 ![Spur](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_2nd.jpg)
-
 Spurious(2nd Harmonic)
 
 ![span](https://github.com/HS8JCV/MMDVM_HS_Hat/blob/master/MMDVM_Hat_VHF_50khz.jpg)
-
 50Khz Span
 
 ## BOM
